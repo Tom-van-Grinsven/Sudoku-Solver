@@ -5,6 +5,6 @@ solve it using the backtracking algorithm.
 
 # GUI
 
-A GUI has not yet been added, so this project is a WIP when I decide to work on it again. Possible features
+A GUI has not yet been added, so this project is a WIP until I decide to work on it again. Possible features
 could be implementing a GUI with pygame that makes playing a Sudoku possible, along with a visual representation of the
 backtracking algorithm doing it's "magic". 
